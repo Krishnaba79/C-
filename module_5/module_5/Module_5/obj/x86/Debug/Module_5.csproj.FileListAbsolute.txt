@@ -1,0 +1,5 @@
+C:\Users\hello\Desktop\C#\program\batch _2023\Module_5\Module_5\bin\Debug\Module_5.exe
+C:\Users\hello\Desktop\C#\program\batch _2023\Module_5\Module_5\bin\Debug\Module_5.pdb
+C:\Users\hello\Desktop\C#\program\batch _2023\Module_5\Module_5\obj\x86\Debug\Module_5.exe
+C:\Users\hello\Desktop\C#\program\batch _2023\Module_5\Module_5\obj\x86\Debug\Module_5.pdb
+C:\Users\hello\Desktop\C#\program\batch _2023\Module_5\Module_5\obj\x86\Debug\Module_5.csprojResolveAssemblyReference.cache

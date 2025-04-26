@@ -1,0 +1,4 @@
+C:\Users\hello\Desktop\C#\program\batch _2023\Module_5\Module_5\bin\Release\Module_5.exe
+C:\Users\hello\Desktop\C#\program\batch _2023\Module_5\Module_5\bin\Release\Module_5.pdb
+C:\Users\hello\Desktop\C#\program\batch _2023\Module_5\Module_5\obj\x86\Release\Module_5.exe
+C:\Users\hello\Desktop\C#\program\batch _2023\Module_5\Module_5\obj\x86\Release\Module_5.pdb

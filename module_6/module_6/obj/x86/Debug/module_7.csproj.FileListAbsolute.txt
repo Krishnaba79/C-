@@ -1,0 +1,4 @@
+C:\Users\princ\OneDrive\Desktop\C#\module_6\module_6\bin\Debug\module_6.exe
+C:\Users\princ\OneDrive\Desktop\C#\module_6\module_6\bin\Debug\module_6.pdb
+C:\Users\princ\OneDrive\Desktop\C#\module_6\module_6\obj\x86\Debug\module_6.exe
+C:\Users\princ\OneDrive\Desktop\C#\module_6\module_6\obj\x86\Debug\module_6.pdb
