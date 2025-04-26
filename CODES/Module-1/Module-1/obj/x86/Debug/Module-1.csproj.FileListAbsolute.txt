@@ -1,0 +1,6 @@
+C:\Users\solan\OneDrive\Desktop\SEM-3\DEVELOPING WINDOWS APPLICATIONS-1\GU\CODES\Module-1\Module-1\bin\Debug\Module-1.exe
+C:\Users\solan\OneDrive\Desktop\SEM-3\DEVELOPING WINDOWS APPLICATIONS-1\GU\CODES\Module-1\Module-1\bin\Debug\Module-1.pdb
+C:\Users\solan\OneDrive\Desktop\SEM-3\DEVELOPING WINDOWS APPLICATIONS-1\GU\CODES\Module-1\Module-1\obj\x86\Debug\Module-1.exe
+C:\Users\solan\OneDrive\Desktop\SEM-3\DEVELOPING WINDOWS APPLICATIONS-1\GU\CODES\Module-1\Module-1\obj\x86\Debug\Module-1.pdb
+D:\SEM-3\DEVELOPING WINDOWS APPLICATIONS-1\GU\CODES\Module-1\Module-1\obj\x86\Debug\Module-1.exe
+D:\SEM-3\DEVELOPING WINDOWS APPLICATIONS-1\GU\CODES\Module-1\Module-1\obj\x86\Debug\Module-1.pdb

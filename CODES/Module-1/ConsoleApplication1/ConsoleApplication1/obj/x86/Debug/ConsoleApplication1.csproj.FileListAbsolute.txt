@@ -1,0 +1,4 @@
+D:\SEM-3\DEVELOPING WINDOWS APPLICATIONS-1\GU\CODES\Module-1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\SEM-3\DEVELOPING WINDOWS APPLICATIONS-1\GU\CODES\Module-1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\SEM-3\DEVELOPING WINDOWS APPLICATIONS-1\GU\CODES\Module-1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\SEM-3\DEVELOPING WINDOWS APPLICATIONS-1\GU\CODES\Module-1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

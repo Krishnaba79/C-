@@ -1,0 +1,4 @@
+D:\SEM-3\C#\Module_7\Module_7\bin\Debug\Module_7.exe
+D:\SEM-3\C#\Module_7\Module_7\bin\Debug\Module_7.pdb
+D:\SEM-3\C#\Module_7\Module_7\obj\x86\Debug\Module_7.exe
+D:\SEM-3\C#\Module_7\Module_7\obj\x86\Debug\Module_7.pdb
