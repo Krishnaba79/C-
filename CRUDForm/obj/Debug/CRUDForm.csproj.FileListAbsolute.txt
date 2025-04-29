@@ -1,0 +1,10 @@
+C:\Users\solan\Desktop\SEM-5\C#\CRUDForm\CRUDForm\obj\Debug\CRUDForm.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\SEM-5\C#\CRUDForm\CRUDForm\obj\Debug\CRUDForm.Form1.resources
+C:\Users\solan\Desktop\SEM-5\C#\CRUDForm\CRUDForm\obj\Debug\CRUDForm.Properties.Resources.resources
+C:\Users\solan\Desktop\SEM-5\C#\CRUDForm\CRUDForm\obj\Debug\CRUDForm.csproj.GenerateResource.cache
+C:\Users\solan\Desktop\SEM-5\C#\CRUDForm\CRUDForm\obj\Debug\CRUDForm.csproj.CoreCompileInputs.cache
+C:\Users\solan\source\repos\C#\CRUDForm\CRUDForm\obj\Debug\CRUDForm.csproj.AssemblyReference.cache
+C:\Users\solan\source\repos\C#\CRUDForm\CRUDForm\obj\Debug\CRUDForm.Form1.resources
+C:\Users\solan\source\repos\C#\CRUDForm\CRUDForm\obj\Debug\CRUDForm.Properties.Resources.resources
+C:\Users\solan\source\repos\C#\CRUDForm\CRUDForm\obj\Debug\CRUDForm.csproj.GenerateResource.cache
+C:\Users\solan\source\repos\C#\CRUDForm\CRUDForm\obj\Debug\CRUDForm.csproj.CoreCompileInputs.cache
