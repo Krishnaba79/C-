@@ -1,0 +1,10 @@
+C:\Users\lijup\Desktop\New folder\crud_operation\crud_operation\bin\Debug\crud_operation.exe.config
+C:\Users\lijup\Desktop\New folder\crud_operation\crud_operation\bin\Debug\crud_operation.exe
+C:\Users\lijup\Desktop\New folder\crud_operation\crud_operation\bin\Debug\crud_operation.pdb
+C:\Users\lijup\Desktop\New folder\crud_operation\crud_operation\obj\Debug\crud_operation.csproj.AssemblyReference.cache
+C:\Users\lijup\Desktop\New folder\crud_operation\crud_operation\obj\Debug\crud_operation.Form1.resources
+C:\Users\lijup\Desktop\New folder\crud_operation\crud_operation\obj\Debug\crud_operation.Properties.Resources.resources
+C:\Users\lijup\Desktop\New folder\crud_operation\crud_operation\obj\Debug\crud_operation.csproj.GenerateResource.cache
+C:\Users\lijup\Desktop\New folder\crud_operation\crud_operation\obj\Debug\crud_operation.csproj.CoreCompileInputs.cache
+C:\Users\lijup\Desktop\New folder\crud_operation\crud_operation\obj\Debug\crud_operation.exe
+C:\Users\lijup\Desktop\New folder\crud_operation\crud_operation\obj\Debug\crud_operation.pdb
