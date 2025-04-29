@@ -1,0 +1,16 @@
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Win Form\SimpleCalc\SimpleCalc\bin\Debug\net8.0-windows\SimpleCalc.exe
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Win Form\SimpleCalc\SimpleCalc\bin\Debug\net8.0-windows\SimpleCalc.deps.json
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Win Form\SimpleCalc\SimpleCalc\bin\Debug\net8.0-windows\SimpleCalc.runtimeconfig.json
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Win Form\SimpleCalc\SimpleCalc\bin\Debug\net8.0-windows\SimpleCalc.dll
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Win Form\SimpleCalc\SimpleCalc\bin\Debug\net8.0-windows\SimpleCalc.pdb
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Win Form\SimpleCalc\SimpleCalc\obj\Debug\net8.0-windows\SimpleCalc.Form1.resources
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Win Form\SimpleCalc\SimpleCalc\obj\Debug\net8.0-windows\SimpleCalc.csproj.GenerateResource.cache
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Win Form\SimpleCalc\SimpleCalc\obj\Debug\net8.0-windows\SimpleCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Win Form\SimpleCalc\SimpleCalc\obj\Debug\net8.0-windows\SimpleCalc.AssemblyInfoInputs.cache
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Win Form\SimpleCalc\SimpleCalc\obj\Debug\net8.0-windows\SimpleCalc.AssemblyInfo.cs
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Win Form\SimpleCalc\SimpleCalc\obj\Debug\net8.0-windows\SimpleCalc.csproj.CoreCompileInputs.cache
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Win Form\SimpleCalc\SimpleCalc\obj\Debug\net8.0-windows\SimpleCalc.dll
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Win Form\SimpleCalc\SimpleCalc\obj\Debug\net8.0-windows\refint\SimpleCalc.dll
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Win Form\SimpleCalc\SimpleCalc\obj\Debug\net8.0-windows\SimpleCalc.pdb
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Win Form\SimpleCalc\SimpleCalc\obj\Debug\net8.0-windows\SimpleCalc.genruntimeconfig.cache
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Win Form\SimpleCalc\SimpleCalc\obj\Debug\net8.0-windows\ref\SimpleCalc.dll
