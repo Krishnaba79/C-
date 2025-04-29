@@ -1,0 +1,10 @@
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Windows Form App\Employee_Insert_Display\Employee_Insert_Display\bin\Debug\Employee_Insert_Display.exe.config
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Windows Form App\Employee_Insert_Display\Employee_Insert_Display\bin\Debug\Employee_Insert_Display.exe
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Windows Form App\Employee_Insert_Display\Employee_Insert_Display\bin\Debug\Employee_Insert_Display.pdb
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Windows Form App\Employee_Insert_Display\Employee_Insert_Display\obj\Debug\Employee_Insert_Display.csproj.AssemblyReference.cache
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Windows Form App\Employee_Insert_Display\Employee_Insert_Display\obj\Debug\Employee_Insert_Display.Form1.resources
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Windows Form App\Employee_Insert_Display\Employee_Insert_Display\obj\Debug\Employee_Insert_Display.Properties.Resources.resources
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Windows Form App\Employee_Insert_Display\Employee_Insert_Display\obj\Debug\Employee_Insert_Display.csproj.GenerateResource.cache
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Windows Form App\Employee_Insert_Display\Employee_Insert_Display\obj\Debug\Employee_Insert_Display.csproj.CoreCompileInputs.cache
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Windows Form App\Employee_Insert_Display\Employee_Insert_Display\obj\Debug\Employee_Insert_Display.exe
+D:\Studies\SEM 5\Developing Windows Application - II\Practice\Windows Form App\Employee_Insert_Display\Employee_Insert_Display\obj\Debug\Employee_Insert_Display.pdb
